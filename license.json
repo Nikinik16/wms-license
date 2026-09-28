@@ -1,8 +1,7 @@
 {
-  "active": false,
+  "active": true,
   "pcs_autorizzati": [
-    PC_goemeit8mf6mul32t8h1,
-    123,
-    456
+    "PC_uy3zpxzmwnmul6z7ld",
+    "PC_goemeit..."
   ]
 }
