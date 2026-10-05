@@ -1,1 +1,1 @@
-# wms-license
+# wls-license
